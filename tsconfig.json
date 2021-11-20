@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "build",
+    "outDir": "public",
     "module": "commonjs",
     "lib": ["esnext", "dom"],
     "target": "es5",
