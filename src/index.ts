@@ -2,7 +2,7 @@ import * as dotenv from "dotenv";
 import express from "express";
 import cors from "cors";
 import helmet from "helmet";
-import logger from "./src/middleware/logger";
+import logger from "./middleware/logger";
 
 dotenv.config();
 
